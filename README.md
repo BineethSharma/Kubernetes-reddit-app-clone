@@ -12,7 +12,7 @@ Before you begin, you should have the following tools installed on your local ma
 - Git
 
 
-
+To execute the project follow the detailed documentation: https://github.com/BineethSharma/Kubernetes-reddit-app-clone/blob/main/Documentation-%20Kubernetes%20Reddit%20clone%20using%20Minikube.pdf
 
 
 
