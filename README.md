@@ -11,7 +11,7 @@ Before you begin, you should have the following tools installed on your local ma
 - kubectl
 - Git
 
-You can install Prerequisites by doing these steps. [click here & complete all steps one by one]().
+
 
 
 
